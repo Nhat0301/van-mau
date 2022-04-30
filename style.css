@@ -348,7 +348,7 @@ ul li input[type=checkbox]:checked ~ .arrow:after {
 	z-index:3 ;
 }
 .full-menu {
-	height: 700px;
+	height: 650px;
 	transition: background 150ms, height 150ms;
 }
 
