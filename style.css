@@ -9,8 +9,8 @@
 	--color-khochiu:  #e45344;
 	--color-vanhoc: #8725cf;
 	--color-postnay: #ef8d31;
-	--color-osu: #f497d8;
-	--color-csgo: #50cbff;
+	--color-khotang: #f497d8;
+	--color-st: #50cbff;
 	--color-hdh: #ff7535;
 	--shadow: rgba(0, 0, 0, 0.6);
 	--shadow2: rgba(0, 0, 0, 0.2);
@@ -290,11 +290,11 @@ ul li input[type=checkbox]:checked ~ .arrow:after {
   .color-postnay {
 	color: var(--color-postnay) !important;
   }
-  .color-osu {
-	color: var(--color-osu) !important;
+  .color-khotang{
+	color: var(--color-khotang) !important;
   }
-  .color-csgo {
-	color: var(--color-csgo) !important;
+  .color-st {
+	color: var(--color-st) !important;
   }
   .color-hdh{
 	color: var(--color-hdh) !important;
