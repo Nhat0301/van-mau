@@ -33,18 +33,18 @@ for (let i = 0; i < e.length; i++) {
       m.toggleClass("color-postnay")
     };
 }
-let f = document.getElementsByClassName("osu");
+let f = document.getElementsByClassName("khotang");
 for (let i = 0; i < f.length; i++) {
     f[i].onclick = function() {
       var m =$(f[i]).closest('li').find("h2")
-      m.toggleClass("color-osu")
+      m.toggleClass("color-khotang")
     };
 }
-let g = document.getElementsByClassName("csgo");
+let g = document.getElementsByClassName("st");
 for (let i = 0; i < g.length; i++) {
     g[i].onclick = function() {
       var m =$(g[i]).closest('li').find("h2")
-      m.toggleClass("color-csgo")
+      m.toggleClass("color-st")
     };
 }
 let h = document.getElementsByClassName("hdh");
